@@ -22,3 +22,7 @@ Into The Radius 2 bHaptics and Provolver/ForceTube mod. Vest and Arms are suppor
 
 # <b>Limitations</b>
 This is a basic mod for the time being, the game is in early access and is likely to break with each new update.
+
+# License:
+UE4SS is used to hook into the game. UE4SS is under MIT licence provided.
+Any file not related to UE4SS is not under this MIT license
