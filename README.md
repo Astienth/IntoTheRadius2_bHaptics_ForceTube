@@ -13,12 +13,18 @@ Into The Radius 2 bHaptics and Provolver/ForceTube mod. Vest and Arms are suppor
 
 1) Download the zip file from [https://github.com/Astienth/IntoTheRadius2_bHaptics_ForceTube/releases/download/0.0.1/Into_the_Radius2_bHaptics_Provolver_0.13.1.zip](https://github.com/Astienth/IntoTheRadius2_bHaptics_ForceTube/releases/download/0.0.1/Into_the_Radius2_bHaptics_Provolver_0.13.1.zip)</br>
 2) Extract its content into the game root folder, the folder containing the IntoTheRadius2.exe.</br>
-3) Launch bhaptic player and turn your devices on. Turn your protube device on</br>
+3) Launch bhaptic player and turn your devices on if you use bHaptics. Turn your protube device on if you use protube devices (READ THE PROTUBE SECTION FOR CONFIG)</br>
 4) Launch the game like you usually launch it
-5) Load your save or a new game, <b>WAIT FOR THE GAME TO BE FULLY LOADED</b>.
-6) If you started a new game you need to be able to save before continuing the mod activation process.
-7) Run **ITR2_Bhaptics.bat**.You should feel the initial heartbeat
-8) <b>RELOAD YOUR SAVE FOR THE MOD TO BE OPERATIONAL</b> </br>
+
+If you already installed a previous version of the mod, you can just overwrite everything and you don't need the previous method to launch the mod. It is now automatic !
+
+# Protube configuration:
+if you want to use two protube devices, one in EACH hand, then you need the "dualwield" config: move the file "dualwield.cfg" from "IntoTheRadius2\Binaries\Win64\Mods\Bhaptics" to "IntoTheRadius2\Binaries\Win64\Mods\Bhaptics\Scripts"
+Protube devices are limited to two devices. First recognized device is assigned to pistol1 and second to pistol2.
+You can have those configurations :
+- one protube and one provolver => single wield, same action is sent to both devices. The file "dualwield.cfg" MUST NOT BE in Mods\Bhaptics\Scripts, leave it anywhere else.
+- two provolvers => dualwield, one in each hand, you NEED the dualwield.cfg file in the correct folder (Mods\Bhaptics\Scripts). Right hand is pistol1, left hand is pistol2
+- only one device => single wield, the file "dualwield.cfg" MUST NOT BE in Mods\Bhaptics\Scripts, leave it anywhere else. Device will be registered as pistol1 and will receive any weapon shot fro many hand (this means that if you have one weapon in each hand and use both, they both will trigger your single protube device. There is no other way to determine which weapon or which hand to use with a single device).
 
 # <b>Limitations</b>
 This is a basic mod for the time being, the game is in early access and is likely to break with each new update.
