@@ -1,3 +1,5 @@
+## !! Coop bhaptics still has issues, currently being worked on !!
+
 # IntoTheRadius2 bHaptics and ForceTube mod
 
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2307350/header.jpg">
