@@ -13,7 +13,7 @@ Into The Radius 2 bHaptics and Provolver/ForceTube mod. Vest and Arms are suppor
 
 # <b>Installation</b></br>
 
-1) Download the zip file from [https://github.com/Astienth/IntoTheRadius2_bHaptics_ForceTube/releases/download/0.0.1/Into_the_Radius2_bHaptics_Provolver_0.13.15.zip](https://github.com/Astienth/IntoTheRadius2_bHaptics_ForceTube/releases/download/0.0.1/Into_the_Radius2_bHaptics_Provolver_0.13.15.zip)</br>
+1) Download the zip file from [https://github.com/Astienth/IntoTheRadius2_bHaptics_ForceTube/releases](https://github.com/Astienth/IntoTheRadius2_bHaptics_ForceTube/releases) corresponding to your game version</br>
 2) Extract its content into the game root folder, the folder containing the IntoTheRadius2.exe.</br>
 3) Launch bhaptic player and turn your devices on if you use bHaptics. Turn your protube device on if you use protube devices (READ THE PROTUBE SECTION FOR CONFIG)</br>
 4) Launch the game like you usually launch it
