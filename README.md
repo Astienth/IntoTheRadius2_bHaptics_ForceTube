@@ -20,6 +20,9 @@ Into The Radius 2 bHaptics and Provolver/ForceTube mod. Vest and Arms are suppor
 
 If you already installed a previous version of the mod, you can just overwrite everything and you don't need the previous method to launch the mod. It is now automatic !
 
+# <b>Uninstall</b></br>
+Delete the file IntoTheRadius2\IntoTheRadius2\Binaries\Win64\dwmapi.dll
+
 # Protube configuration:
 if you want to use two protube devices, one in EACH hand, then you need the "dualwield" config: move the file "dualwield.cfg" from "IntoTheRadius2\Binaries\Win64\Mods\Bhaptics" to "IntoTheRadius2\Binaries\Win64\Mods\Bhaptics\Scripts"
 Protube devices are limited to two devices. First recognized device is assigned to pistol1 and second to pistol2.
