@@ -1,4 +1,4 @@
-## !! Coop bhaptics still has issues, currently being worked on !!
+## !! Coop bhaptics not working !!
 
 # IntoTheRadius2 bHaptics and ForceTube mod
 
