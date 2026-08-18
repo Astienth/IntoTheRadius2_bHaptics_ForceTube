@@ -1,3 +1,5 @@
+# [COOP NOT SUPPORTED]
+
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2307350/header.jpg">
 
 # Description
